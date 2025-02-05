@@ -1,0 +1,10 @@
+Composition,UTS (MPa),BHN,Percentage of elongation (%),Yield strength (MPa)
+Al7075 alloy + 2%BA + 1%Gr,259.3,87.3,6.7,176.84
+Al7075 alloy + 4%BA + 1%Gr,267.3,87.7,6.3,180.68
+Al7075 alloy + 6%BA + 1%Gr,294.2,88.3,5.9,184.93
+Al7075 alloy + 2%BA + 3%Gr,265.4,92.4,6.4,183.83
+Al7075 alloy + 4%BA + 3%Gr,283.4,94.2,5.9,188.56
+Al7075 alloy + 6%BA + 3%Gr,296.3,95.4,5.4,190.53
+Al7075 alloy + 2%BA + 5%Gr,272.3,94.3,5.8,197.05
+Al7075 alloy + 4%BA + 5%Gr,290.3,95.4,5.2,199.29
+Al7075 alloy + 6%BA + 5%Gr,299.4,99.6,4.9,200.86
